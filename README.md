@@ -1,14 +1,14 @@
-# Hi, I'm Fillipe Augusto! 👋🚀
 
+I'm Fillipe Augusto  Front end engineer passionate about design
+I'm currently studying UI / UX Design 
 
-I'm a front end developer, 
-and I'm currently in the 8º semester of software engineering,
-on my last employment I worked as a full-stack programmer and
-had participated in the development of web applications and PWA 
-applications using React on the front-end and node on Back-end creating 
-and configuring  Api Rest, and database on SQL.
+I believe that the combination of good design with excellent usability is essential for creating successful products.
 
-I'm studing React Js and Next Js 
+Some of my favorite libraries including Tailwind, Radix UI, React Query, NextJS. These tools help me speed up development and efficiently create high-quality products.
+
+Contact me:
+Email: fillipeaugustoribeiro@gmail.com
+Github: https://github.com/Fillipeaugusto
 
 
 
